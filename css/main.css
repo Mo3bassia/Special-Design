@@ -1,0 +1,59 @@
+.container {
+  margin: auto;
+  padding-inline: 15px;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/* @font-face {
+  font-family: OpenSans;
+  src: url(../fonts/OpenSans-Bold.ttf);
+  src: url(../fonts/OpenSans_Condensed-Bold.ttf);
+  src: url(../fonts/OpenSans_Condensed-BoldItalic.ttf);
+  src: url(../fonts/OpenSans_Condensed-ExtraBold.ttf);
+  src: url(../fonts/OpenSans_Condensed-ExtraBoldItalic.ttf);
+  src: url(../fonts/OpenSans_Condensed-Italic.ttf);
+  src: url(../fonts/OpenSans_Condensed-Light.ttf);
+  src: url(../fonts/OpenSans_Condensed-LightItalic.ttf);
+  src: url(../fonts/OpenSans_Condensed-Medium.ttf);
+  src: url(../fonts/OpenSans_Condensed-MediumItalic.ttf);
+  src: url(../fonts/OpenSans_Condensed-Regular.ttf);
+  src: url(../fonts/OpenSans_Condensed-SemiBold.ttf);
+  src: url(../fonts/OpenSans_Condensed-SemiBoldItalic.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-Bold.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-BoldItalic.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-ExtraBold.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-Italic.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-Light.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-LightItalic.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-Medium.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-MediumItalic.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-Regular.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-SemiBold.ttf);
+  src: url(../fonts/OpenSans_SemiCondensed-SemiBoldItalic.ttf);
+  src: url(../fonts/OpenSans-Bold.ttf);
+  src: url(../fonts/OpenSans-BoldItalic.ttf);
+  src: url(../fonts/OpenSans-ExtraBold.ttf);
+  src: url(../fonts/OpenSans-ExtraBoldItalic.ttf);
+  src: url(../fonts/OpenSans-Italic.ttf);
+  src: url(../fonts/OpenSans-Light.ttf);
+  src: url(../fonts/OpenSans-LightItalic.ttf);
+  src: url(../fonts/OpenSans-Medium.ttf);
+  src: url(../fonts/OpenSans-MediumItalic.ttf);
+  src: url(../fonts/OpenSans-Regular.ttf);
+  src: url(../fonts/OpenSans-SemiBold.ttf);
+  src: url(../fonts/OpenSans-SemiBoldItalic.ttf);
+} */
